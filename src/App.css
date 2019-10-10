@@ -1,22 +1,111 @@
+h1 {
+  font-size: 36px;
+}
+
 .App {
+  text-align: center;
+  margin: auto;
+  width: 650px;
+}
+
+.App a {
+  color: rgb(38, 128, 156);
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#question_icon {
+  max-width: 75px;
+}
+
+#important_note {
+  background: white;
+  padding: 30px 48px;
+  margin: 24px 0;
+}
+
+#important_note h2 {
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0.75px;
+  line-height: 28px;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
+#important_note p {
+  height: 48px;
+  width: 397px;
+  color: #333333;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 24px;
+  text-align: center;
+  margin: auto;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+#file_upload {
+  margin: 48px 0 12px;
+  cursor: pointer;
+}
+
+#file_upload h2 {
+  height: 24px;
+  width: 108px;
+  color: #333333;
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 500;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+}
+
+#file_upload p {
+  box-sizing: border-box;
+  height: 124px;
+  width: 631px;
+  border: 1px solid #979797;
+  opacity: 0.56;
+
+  color: #333333;
+  font-family: Roboto;
+  font-size: 21px;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  text-align: center;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #09d3ac;
+#file_upload a {
+  margin-right: 6px;
+  color: #53bad3;
+}
+
+button {
+  cursor: pointer;
+  height: 56px;
+  width: 178px;
+  background-color: #53bad3;
+}
+
+button span {
+  height: 24px;
+  width: 70px;
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 500;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  text-align: center;
+}
+
+#hidden_file_input {
+  width: 0px;
+}
+
+#button_container {
+  width: 100%;
+  text-align: right;
 }
