@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/recharge-csv-demo/static/css/main.080beb29.chunk.css",
+    "main.js": "/recharge-csv-demo/static/js/main.c2ff40d5.chunk.js",
+    "main.js.map": "/recharge-csv-demo/static/js/main.c2ff40d5.chunk.js.map",
+    "runtime-main.js": "/recharge-csv-demo/static/js/runtime-main.111bc00e.js",
+    "runtime-main.js.map": "/recharge-csv-demo/static/js/runtime-main.111bc00e.js.map",
+    "static/js/2.a88acf78.chunk.js": "/recharge-csv-demo/static/js/2.a88acf78.chunk.js",
+    "static/js/2.a88acf78.chunk.js.map": "/recharge-csv-demo/static/js/2.a88acf78.chunk.js.map",
+    "index.html": "/recharge-csv-demo/index.html",
+    "precache-manifest.47593f45c5ec684ef86d5a4bf3a6fa33.js": "/recharge-csv-demo/precache-manifest.47593f45c5ec684ef86d5a4bf3a6fa33.js",
+    "service-worker.js": "/recharge-csv-demo/service-worker.js",
+    "static/css/main.080beb29.chunk.css.map": "/recharge-csv-demo/static/css/main.080beb29.chunk.css.map",
+    "static/media/logo.svg": "/recharge-csv-demo/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.111bc00e.js",
+    "static/js/2.a88acf78.chunk.js",
+    "static/css/main.080beb29.chunk.css",
+    "static/js/main.c2ff40d5.chunk.js"
+  ]
+}
